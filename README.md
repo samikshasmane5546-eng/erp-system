@@ -328,25 +328,17 @@ The automated tests cover authentication, role authorization and important sales
 
 
 
-\## Documentation
-
-
+## Documentation
 
 Detailed project documentation covers the system workflow, database design, APIs, authentication, inventory management, transactions, testing and operational scenarios.
 
+**Project documentation:** Add the separate documentation link here after uploading it.
 
+## Repository
 
-\*\*Project documentation:\*\* Add the separate documentation link here after uploading it.
-
-
-
-\## Repository
-
-
-
-\*\*GitHub:\*\*
-
+**GitHub:**
 https://github.com/samikshasmane5546-eng/erp-system
+
 
 
 
