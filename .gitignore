@@ -1,0 +1,12 @@
+node_modules/
+.env
+dist/
+build/
+coverage/
+*.log
+
+backend/.agents/
+backend/.claude/
+backend/.cursor/
+backend/.devin/
+backend/Test Case 2/
